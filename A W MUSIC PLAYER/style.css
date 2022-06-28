@@ -49,7 +49,8 @@ nav ul li{
    width: 70%;
    border-radius: 20px;
    padding: 34px;
-   background-image: url('download123.jpg');
+   background-size: cover;
+   background-image: url('https://besthqwallpapers.com/Uploads/11-10-2020/143486/thumb2-music-texture-grunge-music-background-music-concepts-background-with-notes-musical-notes.jpg');
 }
 
 .bottom{
